@@ -10,14 +10,12 @@ theme = "coming-soon"
     release = "September 1, 2024" 
     background = "" 
 
-socialIcons = [
-       
+socialIcons = [      
     {name = "twitter", url = "https://twitter.com/kaethedev"},    
     {name = "facebook", url = "https://facebook.com/kaethedev"},    
     {name = "github", url = "https://github.com/kaethedev"},    
     {name = "instagram", url = "https://instagram.com/kaethedev"},    
-    {name = "tiktok", url = "https://tiktok.com/kaethedev"},    
- 
+    {name = "tiktok", url = "https://tiktok.com/kaethedev"},     
 ] 
 
 [params.twitter]
